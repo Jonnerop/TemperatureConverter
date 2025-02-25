@@ -3,7 +3,7 @@ pipeline {
     
     environment {
         // Define Docker Hub credentials ID
-        DOCKERHUB_CREDENTIALS_ID = 'jonnerop'
+        DOCKERHUB_CREDENTIALS_ID = '904663fb-32f1-455a-a8d3-20e1f645c356'
         // Define Docker Hub repository name
         DOCKERHUB_REPO = 'jonnerop/temperatureconverter'
         // Define Docker image tag
